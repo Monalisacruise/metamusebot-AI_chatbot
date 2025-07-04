@@ -9,6 +9,6 @@ export default defineConfig({
   build: {
     outDir: 'build',
   }, 
-  base: "/MetaMuseBot/",
+  base: "/metamusebot-AI_chatbot/",
 })
 
